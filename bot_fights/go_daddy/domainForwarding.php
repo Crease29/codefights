@@ -33,14 +33,3 @@ function domainForwarding($redirects)
 
     return $rg;
 }
-
-var_dump(
-    domainForwarding(
-        [
-            ["godaddy.net", "godaddy.com"],
-            ["godaddy.org", "godaddycares.com"],
-            ["godady.com", "godaddy.com"],
-            ["godaddy.ne", "godaddy.net"],
-        ]
-    )
-);
