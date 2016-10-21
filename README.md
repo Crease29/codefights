@@ -1,6 +1,6 @@
 # Codefights Solutions
 
-In this repository I'm collection my solutions for tasks on codefights.com.
+In this repository I'm collecting my solutions for tasks on codefights.com.
 
 Don't trick yourself by just copy & pasting the solutions. You won't get better.
 
